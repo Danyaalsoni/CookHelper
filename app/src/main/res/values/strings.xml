@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CookHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_recipe">Edit Recipe</string>
+    <string name="delete_recipe">Delete Recipe</string>
+    <string name="title_activity_recipe_info">recipeInfo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="select_category">Select Category</string>
+    <string name="add_recipe_name">Add Recipe Name</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="choose_type">Choose Type</string>
+    <string name="select_type">Select Type</string>
+    <string name="cooking_time">Cooking Time</string>
+    <string name="add_cooking_time">Add Cooking Time</string>
+    <string name="preparation_time">Preparation Time</string>
+    <string name="add_preparation_time">Add Preparation Time</string>
+    <string name="add_description">Add Description</string>
+    <string name="add_ingredients">Add Ingredients</string>
+    <string name="add_directions">Add Directions</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="recipetitle">Recipe Title</string>
+    <string name="description">Description</string>
+    <string name="cooking_info">Cooking Info</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="calories">Calories</string>
+    <string name="add_a_recipe">Add a Recipe</string>
+    <string name="update_recipe">Update Recipe</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="overflow_menu">Overflow Menu</string>
+    <string name="help">Help</string>
+    <string name="add_calories">Add Calories</string>
+    <string name="_1_locate_the_3_dots_on_the_recipe_card_for_the_recipe_you_are_trying_to_delete_2_click_on_the_3_dots_to_expand_the_options_that_can_be_applied_to_recipes">1) Locate the 3 dots on the recipe card for the recipe you are trying to delete 2) Click on the 3 dots to expand the options that can be applied to recipes.</string>
+    <string name="_3_now_simply_click_the_delete_recipe_option">3) Now simply click the \'Delete Recipe\' option.</string>
+    <string name="how_can_i_delete_a_recipe">How can I delete a Recipe?</string>
+    <string name="_3_now_simply_click_the_edit_recipe_option">3) Now simply click the \'Edit Recipe\' option.</string>
+    <string name="_4_edit_the_fields_as_you_see_fit_5_then_click_the_update_recipe_button">4) Edit the fields as you see fit! 5) Then click the \'Update Recipe\' button</string>
+    <string name="how_can_i_edit_recipes">How can I edit Recipes?</string>
+    <string name="help_topics">Help Topics</string>
+    <string name="how_do_i_add_a_recipe">How do I add a recipe?</string>
+    <string name="how_do_i_delete_a_recipe">How do I delete a recipe?</string>
+    <string name="how_do_i_edit_a_recipe">How do I edit a recipe?</string>
+    <string name="how_do_i_search_for_a_recipe">How do I search for a recipe?</string>
+    <string name="_1_locate_the_plus_add_button_on_the_bottom_right_of_your_screen_2_click_on_the_plus_add_button">1) Locate the plus/add button on the bottom right of your screen 2) Click on the plus/add button.</string>
+    <string name="_3_now_simply_fill_out_all_the_required_fields_4_once_finished_click_the_add_recipe_button_to_successfully_add_your_recipe_to_the_database">3) Now simply fill out all the required fields 4) Once finished click the \'Add Recipe\' button to successfully add your recipe to the database</string>
+    <string name="how_can_i_add_recipes">How can I add Recipes?</string>
+    <string name="_1_locate_the_search_button_on_the_top_right_of_your_screen_2_click_the_search_button_and_you_are_ready_to_search_3_search_for_recipes_based_on_ingredients_and_category_or_type">1) Locate the search button on the top right of your screen 2) Click the search button and you are ready to search 3) Search for Recipes based on INGREDIENTS and CATEGORY or TYPE</string>
+    <string name="how_can_i_search_for_a_recipe">How can I search for a Recipe?</string>
+
+
+</resources>

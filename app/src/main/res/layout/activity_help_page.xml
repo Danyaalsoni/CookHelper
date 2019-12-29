@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_help_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.danyaal.cookhelper.HelpPage">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:text="@string/help_topics"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="34sp"
+            android:textStyle = "bold"/>
+
+        <Button
+            android:text="@string/how_do_i_add_a_recipe"
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/RecipeAddButton"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:background="?android:attr/colorBackground"
+            android:textAlignment="textStart"
+            android:layout_gravity="start" />
+        <Button
+            android:text="@string/how_do_i_delete_a_recipe"
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/RecipeDeleteButton"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:background="?android:attr/colorBackground"
+            android:textAlignment="textStart"
+            android:layout_gravity="start"
+            android:onClick=""/>
+        <Button
+            android:text="@string/how_do_i_search_for_a_recipe"
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/RecipeSearchButton"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:background="?android:attr/colorBackground"
+            android:textAlignment="textStart"
+            android:layout_gravity="start"/>
+        <Button
+            android:text="@string/how_do_i_edit_a_recipe"
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/RecipeEditButton"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:background="?android:attr/colorBackground"
+            android:textAlignment="textStart"
+            android:layout_gravity="start"/>
+    </LinearLayout>
+
+</RelativeLayout>
